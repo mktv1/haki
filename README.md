@@ -3,9 +3,9 @@ constracted_language
 
 ## ALFABETO    
 ## LIÇÃO 1: ALFABETO E PRONÚNCIA  
-No alfabeto basico do **HAKI**  há 20 letras, sendo  
+No alfabeto basico do HAKI  há 20 letras, sendo  
 que todas têm um único som.  
-São ao todo cinco vogais: **a, e, i, o, u**  
+São ao todo cinco vogais: a, e, i, o, u  
 * as seguintes vogais  **A , I ,  U**  tem som igual ao 
 do português:  
 * A   como em  **ASA**  nunca como em **RÃ** ou **MÃO**
